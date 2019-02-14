@@ -1,0 +1,15 @@
+# python
+__pycache__
+*.egg-info/
+
+# jupyter
+.ipynb_checkpoints/
+
+# log files
+logs/
+*.log
+
+# ide
+.vscode
+.project
+.pydevproject
