@@ -1,3 +1,5 @@
+test_solns/
+
 # python
 __pycache__
 *.egg-info/
