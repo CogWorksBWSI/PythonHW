@@ -6,3 +6,4 @@ In order to run the auto-grader for these problems, you must install bwsi_grader
 
 pip install bwsi_grader
 
+This grader requires you to use Python 3.6 or later.
